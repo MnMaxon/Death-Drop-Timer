@@ -1,0 +1,8 @@
+name: Death_Drop_Timer
+version: 1.3
+main: me.MnMaxon.DeathDropTimer.Main
+commands:
+   DeathDropTimer:
+      description: Displays help
+   DDT:
+      description: Displays help
